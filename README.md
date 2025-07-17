@@ -1,7 +1,7 @@
-# kanishportfolio
+# portfolio
 #  Personal Portfolio Website
 
-This is a responsive personal portfolio website built using **HTML** and **Tailwind CSS** as part of a frontend bootcamp project.
+This is a responsive personal portfolio website built using **HTML** and **Tailwind CSS** .
 
 ##  Overview
 
